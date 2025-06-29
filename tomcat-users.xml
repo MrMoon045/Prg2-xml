@@ -1,0 +1,6 @@
+<role rolename="manager-gui"/>
+<role rolename="manager-script"/>
+<role rolename="admin-gui"/>
+<role rolename="manager-jmx"/>
+<role rolename="manager-status"/>
+<user username="shashanknaik45" password="Shashank@1234" roles="manager-gui,admin-gui,manager-script,manager-jmx,manager-status"/>
